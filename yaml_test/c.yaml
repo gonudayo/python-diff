@@ -1,0 +1,16 @@
+coordinate:
+  "1":
+    moving: { is_moving: false, robot_id: 0 }
+    frame: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    name: Base
+    parent: 0
+  "0":
+    parent: -1
+    frame: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+    name: World
+  "2":
+    moving: { is_moving: false, robot_id: 0 }
+    parent: 0
+    name: TEST
+    frame: [0, 10, 10, 0, 0, 0]
+version: 2000
